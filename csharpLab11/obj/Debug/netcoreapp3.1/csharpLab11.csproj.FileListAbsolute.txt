@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\bin\Debug\netcoreapp3.1\csharpLab11.exe
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\bin\Debug\netcoreapp3.1\csharpLab11.deps.json
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\bin\Debug\netcoreapp3.1\csharpLab11.runtimeconfig.json
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\bin\Debug\netcoreapp3.1\csharpLab11.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\bin\Debug\netcoreapp3.1\csharpLab11.dll
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\bin\Debug\netcoreapp3.1\csharpLab11.pdb
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.dll
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.pdb
+C:\Users\IVM505\source\repos\csharpLab11\csharpLab11\obj\Debug\netcoreapp3.1\csharpLab11.genruntimeconfig.cache
